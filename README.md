@@ -72,8 +72,6 @@ python main.py
 
 ## 📸 Game Preview
 
-(Add a screenshot of your game here)
-
 ![Game Screenshot](screenshot.png)
 
 ---
